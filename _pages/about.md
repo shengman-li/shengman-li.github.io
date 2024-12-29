@@ -16,11 +16,11 @@ Her research contributions include co-designing materials and device structures 
 Research Areas
 --------------
 Nanotechnology and Nanomaterials for 3D NanoSystems: 
-*Oxide Semiconductors
-*Low-dimensional Materials
-*Gain-Cell Memory
-*Design-Technology-Co-Optimization
-*Heterogeneous Integration Technologies
+* Oxide Semiconductors
+* Low-dimensional Materials
+* Gain-Cell Memory
+* Design-Technology-Co-Optimization
+* Heterogeneous Integration Technologies
 
  
 
