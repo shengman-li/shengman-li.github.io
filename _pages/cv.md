@@ -12,70 +12,65 @@ redirect_from:
 
 Education & Training 
 ======
-* <b>Stanford University</b>, Stanford, CA, USA (2022 – 2023)
+* <b>Stanford University</b>, Stanford, CA, USA (2022 – present)
   * Postdoctoral Scholar in Electrical Engineering 
-  * Advisor: Prof. Subhasish Mitra
+  * Advisor: Prof. Subhasish Mitra & Prof. H.-S. Philip Wong
     
-* <b>Massachusetts Institute of Technology</b>, Cambridge, MA, USA (2018 – 2022)
-  * Ph.D. in Electrical Engineering & Computer Science
-  * Advisor: Prof. Max M. Shulaker
-  * Thesis Title: <a href="https://dspace.mit.edu/handle/1721.1/146295" style="color:#0645AD;">_Nanosystems: From the Lab to the Fab_</a>
-  * Dissertation Committee: Prof. Max M. Shulaker, Prof. Jesús A. del Alamo, Prof. Akintunde Akinwande
-  * Minor: _Digital Image Processing_
+* <b>Huazhong University of Science and Technology</b>, Wuhan City, Hubei Province, China (2015 – 2020)
+  * Ph.D. in Microelectronics and Solid-State Electronics
+  * Advisor: Prof. Yanqing Wu
+  * Thesis Title: _Low-power and high-performance electronic devices based on ultra-thin indium-tin-oxide_</a>
     
-* <b>Massachusetts Institute of Technology</b>, Cambridge, MA, USA (2016 – 2018)
-  * S.M. in Electrical Engineering & Computer Science
-  * Advisor: Prof. Max M. Shulaker
-  * Thesis Title: <a href="https://dspace.mit.edu/handle/1721.1/118042" style="color:#0645AD;">_Energy efficient computing: from nanotubes to negative capacitance_</a>
-    
-* <b>Indian Institute of Technology Kharagpur</b>, Kharagpur, WB, India (2012 – 2016)
-  * B.Tech. (Hons.) in Electronics & Electrical Communication Engineering
-* <b>Vivekananda Siksha Niketan High School</b>, Bankura, WB, India
-  * West Bengal Council of Higher Secondary Education - 12th Grade Examination (WBCHSE) (2012)
-  * West Bengal Board of Secondary Education (WBBSE) - 10th Grade Examination (2010)
+* <b>Huazhong University of Science and Technology</b>, Wuhan City, Hubei Province, China (2011 – 2015)
+  * B.Tech. (Hons.) in Electronic Science and Technology
+
+Employment
+======
+* <b>Hunan University</b>, Changsha City, Hunan Province, China (2020 – 2022)
+  * Associate Professor, Material Science and Technology
 
 Research experience
 ======
-* <b>New Computing System Architectures Leveraging New Nanotechnologies</b>
-  * Led development and tape-out for first Monolithic 3D (M3D) IC from foundry leveraging Carbon Nanotube FETs (CNFETs), Resistive RAM (RRAM), and silicon, targeting 5-10× EDP benefit vs. iso-design-footprint and iso-memory-capacity 2D silicon-only ICs (DATE 2023)
-  * Demonstrated first iso-footprint, iso-performance CNFET-RRAM memory stack compared to Si-RRAM memory stack compared at the same technology node measured from the same wafers from the same foundry (VLSI 2023, technology focus session)
+* <b>High-performance Carbon Nanotube Transistor</b>
+  * First time to integrate dopants in extension region for CNT p-MOSFET with densely aligned CNTs (Symp. VLSI Tech. 2023, Equal Contribution).
+  * Developed a self-aligned process for high-performance CNT p-MOSFET with sub-20nm dopedextensions (IEDM 2023, First Author & Corresponding author).
+  * Introduced and simulated a contact-anchoring process flow to release the CNT channel in the first nanosheet FETs built on an array of dense aligned CNTs (Symp. VLSI Tech. 2024).
+  * Demonstrated the best CNT NMOS with barrier booster and achieved iso-performance CNT NMOS and PMOS on densely aligned CNTs (IEDM 2024, First Author & Corresponding author).
     
-* <b> Emerging Nanomaterials and Nanodevices </b>
-  * Led development and optimization efforts for CNFET process
-    * Back-gate CNFET CMOS (TNANO, 2018, ACS Nano 2018) which enabled the first CNFET RISC-V microprocessor (Nature 2019)
-    * High-volume extraction of 99.99% pure semiconducting carbon nanotubes (CNTs) to meet carbon nanotube FET (CNFET) VLSI target (Advanced Electronic Materials 2022) and compatibility with silicon CMOS foundries
+* <b> Gain-cell for On-Chip Memory </b>
+  * Co-developed material synthesis and process flow for gain cell memory using indium-tin-oxide (Symp. VLSI Tech. 2023).
+  * Led the heterogeneous integration process and device design for hybrid 2T nMOS/pMOS gain cell memory with indium-tin-oxide and carbon nanotube transistors (EDL 2023, Equal Contribution).
       
-* <b>Foundry Integration </b>
-  * Led transition of CNFET process from “lab” to multiple commercial “fabs”
-    * First commercial CNFET process: Integration of CNFET process at Analog Devices Inc. (ADI), Wilmington, MA (Nature Electronics 2020, EE Times, MIT News, Scitech Daily, EurekAlert) for research and development of future products (incorporated within ADI’s technology roadmap)
-    * First foundry CNFET process leveraging key advances such as liftoff free CNFET CMOS (VLSI TSA 2022, EDL 2022 - editor’s pick), CNFET CMOS (Nature Electronics 2020), and M3D integration of multi-tier CNFET CMOS logic and RRAM at SkyWater (VLSI 2020 – joint technology and circuits focus, IEEE Spectrum, Business Wire)
+* <b> Two-dimensional Material Synthesis, Electronics, and Optoelectronics </b>
+  * Designed 2D heterostructure for reconfigurable artificial synapse (ACS Applied Materials & Interfaces 2023, Corresponding Author).
+  * Synthesized 2D heterostructure by chemical-vapor deposition for nano-photodetector with recordhigh detectivity (Nano Research 2024, Corresponding Author).
+  * Using 2D ferroelectric material to realize processing-in-sensor and computing-in-memory for AI vision system (Science Bulletin 2024, Corresponding Author).
     
-* <b>Application Demonstrations </b>
-  * First application-level demonstrations of CNFET CMOS M3D technology </b>
-    * First M3D CNFET CMOS IC: 3D Imager integrating two tiers of CMOS CNFETs over Si photodetectors to perform real-time edge-detection (VLSI 2019, technology highlight + demo)
-
+* <b> Low-power and high-performance electronic devices based on ultra-thin indium-tin-oxide </b>
+  * Co-designing materials and device geometry, enabling the first demonstration of indium-tin-oxide (ITO) transistor with excellent short-channel immunity (Nature Materials 2019, First Author).
+  * First demonstration of 15-nm channel length ITO transistor and inverter design for high-speed ring oscillator based on it (IEDM 2019, First Author).
+  * Led the device design and process development for ITO Radio-Frequency transistor on flexible substrate (IEDM 2019).
+  * Contact engineering to achieve low contact resistance of 162 Ω·μm for 10-nm channel length ITO transistor (IEDM 2020, First Author).
   
 Service
 ======
 <b>Reviewer:</b> 
+  * Nature Communications
   * IEEE Electron Device Letters (EDL)
   * IEEE Transactions on Electron Devices (TED)
-  * IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS2)
-  * Applied Physics Letters (APL)
-  * IEEE Access
-  * IEEE ISCAS Conference
-  * IEEE Transactions on Very Large Scale Integration Systems (TVLSI)
+  * Nano Letters
+  * Japanese Journal of Applied Physics
+  * Nano Research
+<b>Session Chair:</b>
+  * EL07.13: 1D and 2D Materials—Technology Integration, 2023 MRS FALL MEETING & EXHIBIT 
 
 
 Outreach
 ======
-<b>EECS Graduate Application Assistance Program (GAAP) mentor</b>, MIT (2020 - 2021) 
-  * A program established to help potential PhD applicants from underrepresented minorities
-  * Mentored 9 students from 5 different countries
-    
-<b>Member of the National Service Scheme</b>, IIT Kharagpur (2012-2014)
-  * Substitute high-school English instructor in Balarampur, a remote village with economic constraints
-  * Ran a yearly food and clothes collection and distribution program 
+<b> Women in Electrical Engineering (WEE) student group</b>, Stanford University (2023 - 2024) 
+  * The organization fosters a sense of community among female EE students through programming that includes mentoring, community service, outreach, and social events.
+  * mentoring underrepresented students, facilitating cross-cultural communication, and fostering collaborative learning environments
+
 
 
   
