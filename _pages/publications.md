@@ -7,53 +7,49 @@ author_profile: true
 
 Journals and Conferences
 ======
-<b>Google Scholar</b> – <a href="https://scholar.google.com/citations?user=NVcyQ3wAAAAJ&hl=en&oi=ao" style="color:#0645AD;">https://scholar.google.com/citations?user=NVcyQ3wAAAAJ&hl=en&oi=ao</a>
+<b>Google Scholar</b> – <a href="https://scholar.google.com/citations?user=upQO_vAAAAAJ&hl=en&oi=ao" style="color:#0645AD;">https://scholar.google.com/citations?user=upQO_vAAAAAJ&hl=en&oi=ao</a>
  
-
-* Rich, D., T. Srimani, M. Malakoutian, S. Chowdhury, S. Mitra, "Efficient Ultra-Dense 3D IC Power Delivery and Cooling Using 3D Thermal Scaffolding," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2024 (To Appear)
-* Srimani, T., A. Bechdolt, S. Choi, C. Gilardi, A. Kasperovich, S. Li, Q. Lin, M. Malakoutian, P. McEwen, R. M. Radway, D. Rich, A. C. Yu, S. Fuller, S. Achour, S. Chowdhury, H.-S. P. Wong, M. Shulaker, S. Mitra, “N3XT 3D Technology Foundations and Their Lab-to-Fab: Omni 3D Logic, Logic+Memory Ultra-Dense 3D, 3D Thermal Scaffolding,” IEEE International Electron Devices Meeting (IEDM), December 2023
-* Gilardi, C., G. Zeevi, S. Choi, S. Su, T. Hung, S. Li, N. Safron, Q. Lin, T. Srimani, M. Passlack, G. Pitner, E. Chen, I. Radu, H. P. Wong, S. Mitra, "Barrier Booster for Remote Extension Doping and its DTCO in 1D & 2D FETs", IEEE International Electron Devices Meeting (IEDM), December 2023
-* Srimani, T. #^, A.C. Yu ^, R. Radway ^, D. Rich, M. Nelson, S. Wong, D. Murphy, S. Fuller, G. Hills, S. Mitra and M. Shulaker, “Foundry Monolithic 3D BEOL Transistor + Memory Stack: Iso-performance and Iso-footprint BEOL Carbon Nanotube FET+RRAM vs. FEOL Silicon FET+RRAM,” IEEE Symp. VLSI Technology, June 2023 (Technology Focus Session and Best Student Paper)
-* Shulaker, M., T. Srimani, S. Fuller, Y. Stein, and D. Murphy. "Back-gate field-effect transistors and methods for making the same." U.S. Patent 11,626,486 issued April 11, 2023
-* Srimani, T. #^, R. Radway ^, J. Kim ^, Prabhu K., et al. “Ultra-dense 3D Physical Design Unlocks New Architectural Design Points with Large Benefits” 2023 ACM/IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE)
-* Srimani, T. #^, J. Ding, A. C. Yu, et al. “Comprehensive Study on High Purity Semiconducting Carbon Nanotube Extraction” Advanced Electronic Materials (2022)
-* Srimani, T. #^, A. C. Yu ^, et al. " Lift-off-Free Complementary Carbon Nanotube FETs Fabricated with Conventional Processing in a Silicon Foundry" IEEE VLSI-TSA, (2022), pp. 1-2
-* Yu, A.C., T. Srimani, et al. " Foundry Integration of Carbon Nanotube FETs at the 90 nm Node with New Lift-off-free Process." IEEE EDL (2022), 43(3), pp. 486-489
-* Srimani, T. #^, G. Hills ^, M. Bishop, C. Lau et al. “Heterogeneous Integration of BEOL Logic and Memory in a Commercial Foundry: Multi-tier Complementary Carbon Nanotube Logic and Resistive RAM at a 130 nm node” (Joint Focus in Technology and Circuits), IEEE Symp. on VLSI Technology and Circuits, (2020), pp. 1-2
-* Lau, C., G. Hills, M. D. Bishop, T. Srimani, R. Ho, P. Kanhaiya, A. Yu, A. Amer, M. Chao, and M. M. Shulaker. "Manufacturing Methodology for Carbon Nanotube Electronics."  IEEE VLSI-TSA, (2020), pp. 134-135
-* Hills, G., C. Lau, T. Srimani, M.D. Bishop, P. Kanhaiya, R. Ho, A. Amer, and M. M. Shulaker. "Advances in Carbon Nanotube Technologies: From Transistors to a RISC-V Microprocessor."  ISPD, (2020), pp. 33-38
-* Bishop, M. D., G. Hills, T. Srimani, C. Lau, et al. "Fabrication of carbon nanotube field-effect transistors in commercial silicon manufacturing facilities." Nature Electronics, (2020), 3(8), pp. 492-501
-* Hills, G., C. Lau, A. Wright, S. Fuller, M. D. Bishop, T. Srimani, P. Kanhaiya et al. "Modern microprocessor built from complementary carbon nanotube transistors." Nature, (2019), 572(7771), pp. 595-602
-* Srimani, T. #, G. Hills, C. Lau, and M. Shulaker. "Monolithic Three-Dimensional Imaging System: Carbon Nanotube Computing Circuitry Integrated Directly Over Silicon Imager." (Technology Highlight + Demo Session), IEEE Symp. on VLSI Tech., (2019), pp. T24-T25
-* Srimani, T. #, G. Hills, X. Zhao, D. Antoniadis, J. A. del Alamo, and M. M. Shulaker. "Asymmetric gating for reducing leakage current in carbon nanotube field-effect transistors." APL, (2019), 115(6), pp. 063107
-* Srimani, T., G. Hills, M. D. Bishop, and M.M. Shulaker. "30-nm Contacted Gate Pitch Back-Gate Carbon Nanotube FETs for Sub-3-nm Nodes." IEEE TNANO (2018), 18, pp. 132-138
-* Lau, C., T. Srimani, M. D. Bishop, G. Hills, and M. M. Shulaker. "Tunable n-type doping of carbon nanotubes through engineered atomic layer deposition HfOX films." ACS nano, (2018), 12(11), pp. 10924-10931
-* Srimani, T., G. Hills, M.D. Bishop et. al. "Negative capacitance carbon nanotube FETs." IEEE EDL, (2017), 39(2), pp. 304-307
-* Srimani, T., B. Manna, A.K. Mukhopadhyay, K. Roy, and M. Sharad, "Robust and high sensitivity biosensor using injection locked spin torque nano-oscillators." In 2016 IEEE DRC, pp. 1-2
-
-Corresponding author: #; Equal Contribution: ^
+Corresponding author: #; Equal Contribution: *
+* S. Li*#, D. Zhong*,  C. Gilardi, N. Safron, TA. Chao, G. Zeevi, S. Rijs, A. D. Bechdolt, M. Passlack, G. Pitner#, L. Radu, HS. Wong, S. Mitra. "Iso-performance N-type and P-type MOSFETs on densely aligned CNT array enabled by self-aligned extension doping with barrier booster", IEEE International Electron Devices Meeting (2024).
+* N. Safron, TA. Chao, S. Li, S. Natani, SL. Liew, HY. Chiu, SK. Su, A. Bechdolt., C. Gilardi, G. Zeevi, Z. Zhang, M. Passlack, V. Hou, H. Kashyap, CH. Chien, P. Bandaru, A. Kummel, HS. Wong, S. Mitra, G. Pitner*, L. Radu*. " High Performance Transistor of Aligned Carbon Nanotubes in a Nanosheet Structure." IEEE Symposium on VLSI Technology and Circuits (2024).
+* G. Wu, L. Xiang, W. Wang, C. Yao, C. Zhang, J. Wu, Y. Liu, B. Zheng, H. Liu, X. Sun, C. Zhu, Y. Wang, D. Li#, A. Pan#, S. Li#. "Hierarchical Processing Enabled by 2D Ferroelectric Semiconductor Transistor for Low-Power and High-Efficiency AI Vision System", Science Bulletin (2024).
+* C. Zhang, B. Zheng, G. Wu, X. Liu, J. Wu, C. Yao, Y. Wang, Z. Tang, Y. Chen, L. Fang, L. Huang, D. Li#, S. Li#, A. Pan#. "Controlled growth of vertically stacked In2Se3/WSe2 heterostructures for ultrahigh responsivity photodetector." Nano Research (2024).
+* S. Li*#, TA. Chao*, C. Gilardi, N. Safron, SK. Su, G. Zeevi, A. D. Bechdolt, M. Passlack, A. Oberoi, Q. Lin, Z. Zhang, K. Wang, H. Kashyap, S.L. Liew, V. Hou, P. Bandaru, A. Kummel, L. Radu, G. Pitner#, HS. Wong, S. Mitra. "High-performance and low parasitic capacitance CNT MOSFET: 1.2 mA/μm at VDS of 0.75 V by self-aligned doping in sub-20 nm spacer", IEEE International Electron Devices Meeting (2023).
+* T. Srimani, A. Bechdolt, S. Choi, C. Gilardi, A. Kasperovich, S. Li, Q. Lin, M. Malakoutian, P. McEwen, R.M. Radway, D. Rich, A.C. Yu, S. Fuller, S. Achour, S. Chowdhury, H.-S. P. Wong, M. Shulaker, S. Mitra. "N3XT 3D Technology Foundations and Their Lab-to-Fab: Omni 3D Logic, Logic+Memory Ultra-Dense 3D, 3D Thermal Scaffolding", IEEE International Electron Devices Meeting (2023), invited paper.
+* C. Gilardi, G. Zeevi, S. Choi, SK. Su, T. Hung, S. Li, N. Safron, Q. Lin, T. Srimani, M. Passlack, G. Pitner, E. Chen, L. Radu, HS. Wong, S. Mitra. "Barrier Booster for Remote Extension Doping and its DTCO for 1D & 2D FETs", IEEE International Electron Devices Meeting (2023).
+* G. Pitner*, N. Safron*, TA. Chao*, S. Li*, SK. Su*, G. Zeevi, Q. Lin, HY. Chiu, M. Passlack, Z. Zhang, D. Sathaiya, A. Wei, C. Gilardi, E. Chen, SL. Liew, V. Hou, CW. Wu, J. Wu, Z. Lin, J. Fagan, M. Zheng, H. Wang, S. Mitra, HS. Wong, L. Radu. "Building high-performance transistors on carbon nanotube channel." IEEE Symposium on VLSI Technology and Circuits (2023).
+* K. Toprasertpong, S. Liu, J. Chen, S. Wahid, K. Jana, WC. Chen, S. Li, E. Pop, and HS. Wong. "Co-designed Capacitive Coupling-Immune Sensing Scheme for Indium-Tin-Oxide (ITO) 2T Gain Cell Operating at Positive Voltage Below 2 V." IEEE Symposium on VLSI Technology and Circuits (2023).
+* C. Yao, G. Wu, M. Huang, W. Wang, C. Zhang, J. Wu, H. Liu, B. Zheng, J. Yi, C. Zhu, Z. Tang, Y. Wang, M. Huang, L. Huang, Z. Li, L. Xiang, D. Li#, S. Li#, A. Pan#. "Reconfigurable Artificial Synapse Based on Ambipolar Floating Gate Memory." ACS Applied Materials & Interfaces (2023).
+* B. Zheng, X. Sun, W. Zheng, C. Zhu, C. Ma, A. Pan, D. Li#, and S. Li#, "Vapor Growth of V-Doped MoS2 Monolayers with Enhanced B-Exciton Emission and Broad Spectral Response", Frontiers of Optoelectronics (2023).
+* S. Liu*, S. Li*, Q. Lin, S. Mitra, HS. Wong, K. Toprasertpong*. "Hybrid 2T nMOS/pMOS Gain Cell Memory with indium-tin-oxide and carbon nanotube MOSFETs for Counteracting Capacitive Coupling", IEEE Electron Device Letters (2023).
+* M. Huang, W. Ali, L. Yang, J. Huang, C. Yao, Y. Xie, R. Sun, C. Zhu, Y. Tan, X. Liu, S. Li, Z. Wei#, A. Pan#. "Multifunctional Optoelectronic Synapses Based on Arrayed MoS2 Monolayers Emulating Human Association Memory." Advanced Science (2023).
+* TA. Chao, CP. Chuu, SL. Liew, IF. Hu, SK. Su, S. Li, SC. Lin, V. Hou, HS. Wong, I. Radu, WH. Chang, G. Pitner, H. Wang. "Small Molecule Additives to Suppress Bundling in Dimensional-Limited Self-Alignment Method for High-Density Aligned CNT Array."  Advanced Materials Interfaces (2023).
+* W. Wu, M. Zhou, D. Li, S. Li, Z. Yang, Z. Huo, Y. Wu, Y. Tan, X. Han#, C. Pan#, A. Pan#. "A novel visible light sensing and recording system enabled by integration of photodetector and electrochromic devices." Nanoscale (2021).
+* J. Yi, X. Sun, C. Zhu, S. Li, Y. Liu, X. Zhu, W. You, D. Liang, Q. Shuai, Y. Wu, D. Li#, A. Pan#. "Double-Gate MoS2 Field-Effect Transistors with Full-Range Tunable Threshold Voltage for Multifunctional Logic Circuits." Advanced Materials (2021).
+* S. Li, C. Gu, X. Li, R. Huang, Y. Wu. "10-nm Channel Length Indium-Tin-Oxide transistors with Ion = 1860 μA/μm, Gm = 1050 μS/μm at Vds = 1 V with BEOL Compatibility." IEEE International Electron Devices Meeting (2020).
+* S. Li, M. Tian, Q. Gao, M. Wang, T. Li, Q. Hu, X. Li and Y Wu.  "Nanometer-thin indium tin oxide for advanced high-performance electronics." Nature Materials (2019).
+* S. Li, M Tian, C Gu, R Wang, M Wang, X Xiong, X Li, R Huang, Y Wu. "BEOL Compatible 15-nm Channel Length Ultrathin Indium-Tin-Oxide Transistors with Ion = 970 μA/μm and On/off Ratio Near 1011 at Vds = 0.5 V." IEEE International Electron Devices Meeting (2019).
+* M. Wang, X. Li, X. Xiong, J. Song, C. Gu, D. Zhan, Q. Hu, S. Li, Y. Wu. "High-performance flexible ZnO thin-film transistors by atomic layer deposition." IEEE Electron Device Letters (2019).
+* Q. Hu, B. Hu, C. Gu, T. Li, S. Li, S. Li, X. Li, Y. Wu. "Improved current collapse in recessed AlGaN/GaN MOS-HEMTs by interface and structure engineering." IEEE Transactions on Electron Devices (2019).
+* M. Wang, M. Tian, Z. Zhang, S. Li, R. Wang, C. Gu, X. Shan, X. Xiong, X. Li, R. Huang and Y. Wu. "High-performance gigahertz flexible radio frequency transistors with extreme bending conditions." IEEE International Electron Devices Meeting (2019).
+* T. Li, M. Tian, S. Li, M. Huang, X. Xiong, Q. Hu, S. Li, X. Li, Y. Wu. "Black phosphorus radio frequency electronics at cryogenic temperatures." Advanced Electronic Materials (2018).
+* M. Tian, X. Xiong, M. Huang, T. Li, S. Li, Q. Hu, X. Li, Y. Wu. "High-performance two-dimensional transistors and circuits." IEEE International Conference on Solid-State and Integrated Circuit Technology (2018).
+* X. Li, J. Wu, Y. Ye, S. Li, T. Li, X. Xiong, X. Xu, T. Gao, X. Xie, Y. Wu. "Performance and reliability improvement under high current densities in black phosphorus transistors by interface engineering." ACS Applied Materials & Interfaces (2018).
+* M. Huang, S. Li, Z. Zhang, X. Xiong, X. Li, Y. Wu. " Multifunctional high-performance van der Waals heterostructures." Nature Nanotechnology (2017).
+* T. Li, Z. Zhang, X. Li, M. Huang, S. Li, S. Li, Y. Wu. " High field transport of high-performance black phosphorus transistors." Applied Physics Letters (2017).
   
 Invited Articles & Presentations
 ======
-* Srimani, T. “The next leap in computing systems: powered by beyond-silicon technologies and their lab-to-fab” ECE Graduate Seminar Series, Carnegie Mellon University (Sep 2024)
-* Srimani, T., R Radway, M Mohseni, K Çamsarı, S Mitra “Next-generation Probabilistic Computing Hardware with 3D MOSAICs, Illusion Scale-up, and Co-design”, DOE ASCR Analog Computing for Science Workshop, Bethesda, Maryland (Sep 2024)
-* Srimani, T. “NanoSystems: Lab-to-fab and Co-design” Department of Electrical Engineering, Indian Institute of Technology, Bombay, India (Aug 2024)
-*	Srimani, T. “The next leap in computing systems: powered by beyond-silicon technologies and their lab-to-fab” Centre for Nano Science and Engineering, Indian Institute of Science, Bangalore, India (Aug 2024)
-*	Srimani, T. “Foundry Monolithic 3D Logic+Memory Stack unlocks Large IC Architectural Benefits” (3D Integration Workshop), In 2024 IEEE DATE conference (Mar 2024)
-* Radway, R., Srimani, T. "New Foundry Monolithic 3D Transistor+Memory Unlocks Large Benefits vs. Conventional Silicon Transistor+Memory within the Same Footprint​" SystemX Fall Conference, Stanford University (Nov 2023)
-* Srimani, T. “New Foundry Monolithic 3D BEOL Transistor+Memory Stack Unlocks Large IC Architectural Benefits Within the Same Design Footprint at the Same Technology Node ” IEEE/ACM ICCAD SLIP Workshop, San Francisco, USA (November 2023)
-* Srimani, T. “NanoSystems: Lab to Fab” IEEE IISc Bangalore, Bangalore, India (July 2023)
-* Srimani, T. “NanoSystems: Lab to Fab” IEEE Leuven/MICAS, KU Leuven (April 2023)
-* Srimani, T., M. Shulaker “Talk is Cheap: It Takes Money to Ride the Train” 6.nano seminar series, EECS, MIT (Nov 2022)
-* Srimani, T., R.M. Radway “Foundry Monolithic 3D Technology Enables New Architectural Design Points with Large Benefits” SystemX Fall Conference, Stanford University (Nov 2022)
-* Srimani, T. “NanoSystems: Lab to Fab” ECE Graduate Seminar Series, Carnegie Mellon University (Nov 2022)
-* Srimani, T., R.M. Radway, H.-S.P. Wong, S. Mitra “The Future of Hardware Technologies for Computing: N3XT 3D MOSAIC, Illusion Scaleup, Co-Design” TCVLSI newsletter (May 2022)
-* Srimani, T. “Nanosystems for Energy-Efficient Computing using Carbon Nanotube FETs and Monolithic 3D Integration” (3D Integration Workshop), In 2022 ACM/IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE) (Mar 2022)
-* Srimani, T. " Commercial Opportunities for RRAM, CNTs, and Monolithic 3D in the US" CICS Meeting, MTL, MIT (Nov 2021)
-* Srimani, T. "Beyond-Silicon Technologies for Beyond-Silicon Applications." CICS Meeting, MTL, MIT (May 2021)
-* Srimani, T. "Establishing Emerging Nanotechnologies to Supplement Silicon CMOS within Commercial Fabs and Foundries." CICS Meeting, MTL, MIT (May 2020)
-* Srimani, T. "Back Gate Transistors for Highly Scaled and Energy Efficient Digital Electronics" (Best Poster), Masterworks, EECS, MIT (Apr 2018)
-* Srimani, T. "Energy-efficient Digital VLSI using Carbon Nanotube Transistors" Department of E&ECE, Indian Institute of Technology, Kharagpur, India (Mar 2018)
-* Srimani, T. "Back Gate Transistors for Highly Scaled and Energy Efficient Digital Electronics" MTL Annual Research Conference, MIT (Feb 2018)
-* Srimani, T. " Beyond silicon technologies and heterogeneous integration" Guest Lecture, 6.374, Analysis and Design of Digital Integrated Circuits, MIT (Nov 2017)
-* Srimani, T., Chen, L., Ma, Y. and Zhou, C., "Electronics and optoelectronics of a novel transition metal dichalcogenide." (poster) Indian National Science Academy, Delhi (Aug 2015)
+* Shengman Li. “Remote doping for Carbon Nanotube Transistors” 2024 NT24, Boston, MA, June 2024. (Invited talk)
+* Shengman Li. “Carbon Nanotube Transistors for a Future 3D Logic Technology” 2023 MRS Fall Meeting, Boston, MA, November 2023. (Invited talk)
+* Shengman Li. "High-performance and low parasitic capacitance CNT MOSFET: 1.2 mA/μm at VDS of 0.75 V by self-aligned doping in sub-20 nm spacer", 2023 IEEE International Electron Devices Meeting, San Francisco, CA, December 2023.
+* Shengman Li. "Building high-performance transistors on carbon nanotube channel." SystemX Fall Conference, Stanford University, Nov 2023.
+* Shengman Li. "Building high-performance transistors on carbon nanotube channel." 2023 Symposium on VLSI Technology and Circuits, Kyoto, Japan, June 2023.
+* Shengman Li., "Extension doping for carbon-nanotube transistors." TSMC Corporate Research Seminar Series, Virtual, May 2023.
+* Shengman Li. "High-performance and low-power electronic devices based on indium-tin oxide." Stanford Seminar, Stanford University, Feb 2022.
+* Shengman Li. "Electronic Devices Based on Ultra-thin Indium Tin Oxide." 2021 Materials Today Nano, online, China, March 2021. (Invited talk)
+* Shengman Li. "High-performance and low-power electronic devices based on indium-tin oxide." 2020 Summit of Emerging Electronic Materials and Devices Symposium on Low-Dimensional Material Application and Standardization, Wuxi, Jiangsu, China, December 2020. (Invited talk)
+* Shengman Li. "10-nm Channel Length Indium-Tin-Oxide transistors with Ion = 1860 μA/μm, Gm = 1050 μS/μm at Vds = 1 V with BEOL Compatibility." 2020 IEEE International Electron Devices Meeting, San Francisco, CA, December 2020.
+* Shengman Li. "BEOL Compatible 15-nm Channel Length Ultrathin Indium-Tin-Oxide Transistors with Ion = 970 μA/μm and On/off Ratio Near 1011 at Vds = 0.5 V." 2019 IEEE International Electron Devices Meeting, San Francisco, CA, December 2019.
+* Shengman Li. " Van der Waals Heterostructures Based on Two-dimensional Materials." 2018 APS March Meeting, Los Angeles, CA, March 2018.
+
