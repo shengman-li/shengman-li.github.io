@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tathagata Srimani" 
-  avatar           : "profile.png"
-  bio              : "Assistant Professor, Electrical and Computer Engineering, Carnegie Mellon University"
+  name             : "Shengman Li" 
+  avatar           : "Shengman headshot.jpg"
+  bio              : "Postdoctoral Scholar, Electrical Engineering, Stanford University"
   location         : 
   employer         :
   pubmed           : # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=NVcyQ3wAAAAJ&hl=en"
-  email            : "tsrimani@andrew.cmu.edu"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=upQO_vAAAAAJ&view_op=list_works&sortby=pubdate"
+  email            : "smli2020@stanford.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tsrimani"
+  github           : "SharmanLi"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "tathagata-srimani-85723458"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : "www.linkedin.com/in/shengman-li-619779236"
+  orcid            : "https://orcid.org/0000-0002-5462-7883"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Tathagata02" #"replacethistwitterhandle"
+  twitter          : #example"Tathagata02" #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
