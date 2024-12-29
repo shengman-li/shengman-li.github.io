@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tathagata Srimani"
+title                    : "Shengman Li"
 title_separator          : "-"
-name                     : &name "Tathagata Srimani"
+name                     : &name "Shengman Li"
 description              : &description
-url                      : https://tsrimani.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://shengmanli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tsrimani.github.io"
+repository               : "shengmanli.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
