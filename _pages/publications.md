@@ -38,7 +38,7 @@ Corresponding author: #; Equal Contribution: *
 * M. Huang, S. Li, Z. Zhang, X. Xiong, X. Li, Y. Wu. " Multifunctional high-performance van der Waals heterostructures." Nature Nanotechnology (2017).
 * T. Li, Z. Zhang, X. Li, M. Huang, S. Li, S. Li, Y. Wu. " High field transport of high-performance black phosphorus transistors." Applied Physics Letters (2017).
   
-Invited Articles & Presentations
+Invited Talks & Presentations
 ======
 * Shengman Li. “Remote doping for Carbon Nanotube Transistors” 2024 NT24, Boston, MA, June 2024. (Invited talk)
 * Shengman Li. “Carbon Nanotube Transistors for a Future 3D Logic Technology” 2023 MRS Fall Meeting, Boston, MA, November 2023. (Invited talk)
