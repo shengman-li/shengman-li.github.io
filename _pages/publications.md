@@ -10,6 +10,7 @@ Journals and Conferences
 <b>Google Scholar</b> – <a href="https://scholar.google.com/citations?user=upQO_vAAAAAJ&hl=en&oi=ao" style="color:#0645AD;">https://scholar.google.com/citations?user=upQO_vAAAAAJ&hl=en&oi=ao</a>
  
 Corresponding author: #; Equal Contribution: *
+
 *J. Kang, K. Jana, N. Safron, D. Zhong, S. Li#, H.-S. P. Wong#. “Quantum-Well Carrier Confinement Overcomes Mobility–VT Trade-off of Oxide Semiconductor Transistors,” IEEE International Electron Devices Meeting (2025).
 * K. Jana, J. Kang, S. Liu, F. F. Athena, C.-H. Huang, Y. Tang, H. J.-Y. Chen, B. Saini, J. Hartanto, R. K. A. Bennett, A. O. E. Persson, S. Li, K. Neilson, Y.-M. Lee, K. Leitherer, K. Nomura, P. C. McIntyre, E. Pop, H.-S. P. Wong. “Key to Low Supply Voltage: Transition Region of Oxide Semiconductor Transistors,” IEEE Symposium on VLSI Technology and Circuits (2025).
 * N. Safron, H.-Y. Chiu, T.-A. Chao, L. Liu, M. Passlack, C. Gilardi, A. Azizi, D. Zhong, J.-J. Wu, S. Natani, A. Kummel, S. Li, S. Mitra, C.-H. Chien, HS. Wong, M. M.-F. Chang, G. Pitner, I. Radu, M. Cao. “1000× Lower Leakage in High-Performance Carbon Nanotube Nanosheet FETs,” IEEE Symposium on VLSI Technology and Circuits (2025).
