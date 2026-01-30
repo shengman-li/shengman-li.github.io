@@ -27,7 +27,7 @@ Education & Training
 Employment
 ======
 * <b>National University of Singapore</b>, Singapore (2026 – )
-  * Assistant Professor in Electrical and Computer Engineering
+  * Assistant Professor, Electrical and Computer Engineering
     
 * <b>Hunan University</b>, Changsha City, Hunan Province, China (2020 – 2022)
   * Associate Professor, Material Science and Technology
