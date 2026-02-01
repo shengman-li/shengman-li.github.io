@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "Singapore"
 title                    : "Shengman Li"
 title_separator          : "-"
 name                     : &name "Shengman Li"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Shengman Li" 
   avatar           : "shengman.png"
-  bio              : "Postdoctoral Scholar, Electrical Engineering, Stanford University"
-  location         : "Stanford, CA"
-  employer         : "Stanford University"
+  bio              : "Assistant Professor, Electrical and Computer Engineering, National University of Singapore"
+  location         : "Singapore"
+  employer         : "National University of Singapore"
   pubmed           : # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=upQO_vAAAAAJ&view_op=list_works&sortby=pubdate"
-  email            : "smli2020@stanford.edu"
+  email            : "shengman_li@nus.edu.sg"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
