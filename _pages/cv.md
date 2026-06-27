@@ -66,14 +66,15 @@ Service
   * Nano Research
     
 <b>Session Chair:</b>
-  * EL07.13: 1D and 2D Materials—Technology Integration, 2023 MRS FALL MEETING & EXHIBIT 
+  * EL07.13: 1D and 2D Materials—Technology Integration, 2023 MRS FALL MEETING & EXHIBIT
+  * D3-MR08-AM / Nano-Optoelectronics and Neuromorphic Systems-I, IEEE-NANO 2026
+  * D4-MR06-AM / Nanoelectronics - I, IEEE-NANO 2026
 
 
 Outreach
 ======
 <b> Women in Electrical Engineering (WEE) student group</b>, Stanford University (2023 - 2024) 
-  * The organization fosters a sense of community among female EE students through programming that includes mentoring, community service, outreach, and social events.
-  * mentoring underrepresented students, facilitating cross-cultural communication, and fostering collaborative learning environments
+
 
 
 
